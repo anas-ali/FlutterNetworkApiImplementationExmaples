@@ -1,7 +1,16 @@
-# networktest
+# Network API Implementation
 
-A new Flutter application to test api.
+Get And Post API Implementation sample code.
 
-## Getting Started
+## Dependencies Used
 
-# Get API And Post API Implementation
+ - http (For Network Calls)
+ - json_serializable(For Json Code Generation)
+ - intl (For date parsing)
+
+ 
+ 
+## Widgets Used
+- FutureBuilder
+- ListView.builder
+
